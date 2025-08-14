@@ -8,3 +8,8 @@ sqlalchemy
 pdfminer.six
 python-docx
 werkzeug
+fastapi>=0.95.2
+uvicorn>=0.22.0
+python-dotenv>=1.0.0
+ibm-watson-machine-learning>=1.0.327
+python-multipart>=0.0.6
