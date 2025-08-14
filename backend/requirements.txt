@@ -1,0 +1,10 @@
+Flask
+Flask-Cors
+python-dotenv
+requests
+PyJWT
+passlib[bcrypt]
+sqlalchemy
+pdfminer.six
+python-docx
+werkzeug
